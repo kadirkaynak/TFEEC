@@ -1,0 +1,28 @@
+{
+  "name" : "EventArgumentTags",
+  "typeUiName" : null,
+  "description" : null,
+  "language" : null,
+  "type" : null,
+  "type_name" : null,
+  "type_description" : null,
+  "tags" : [ 
+    {"tag_name" : "O", "tag_description" : null},
+    {"tag_name" : "ZAMAN", "tag_description" : null},
+    {"tag_name" : "ŞİRKET", "tag_description" : null},
+    {"tag_name" : "KİŞİ", "tag_description" : null},
+    {"tag_name" : "PARA", "tag_description" : null},
+    {"tag_name" : "UNVAN", "tag_description" : null},
+    {"tag_name" : "SAYI", "tag_description" : null},
+    {"tag_name" : "ORAN", "tag_description" : null},
+    {"tag_name" : "YER", "tag_description" : null},
+    {"tag_name" : "TAVSİYE", "tag_description" : null},
+    {"tag_name" : "ÜRÜN", "tag_description" : null},
+    {"tag_name" : "ANALİST", "tag_description" : null},
+    {"tag_name" : "İŞ_ALANI", "tag_description" : null},
+    {"tag_name" : "PROJE", "tag_description" : null},
+    {"tag_name" : "TAHMİN", "tag_description" : null},
+    {"tag_name" : "İHALE", "tag_description" : null}
+  ],
+  "create_tag" : false
+}
