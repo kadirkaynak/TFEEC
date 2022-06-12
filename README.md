@@ -2,7 +2,7 @@
 <center><h1>TFEEC : TÜRKÇE FİNANSAL OLAY ÇIKARIM DERLEMİ</h1></center> 
 
 ### Türkçe Finansal Olay Çıkarımı için Veri Kümesi
-Türkçe haberlerden finansal ve ekonomik  olayların çıkarılmasını sağlayacak bir veri kümesi sunuyoruz. Bu çalışma için 2010-2022 yılları arasında farklı haber sitelerinde paylaşılan şirkete özel haber makalelerini topladık. Toplanan toplam 34.746 haber makalesinin 600 tanesi elle işaretlenmiştir, geri kalan 34.146 tanesi ise zayıf denetim methodları kullanılarak otomatik olarak etiketlendirilmiştir.
+Türkçe haberlerden finansal ve ekonomik  olayların çıkarılmasını sağlayacak bir veri kümesi sunuyoruz. Bu çalışma için 2010-2022 yılları arasında farklı www.borsagundem.com internet sitesinde paylaşılan şirkete özel haber makalelerini topladık. Toplanan toplam 34.746 haber makalesinin 600 tanesi elle işaretlenmiştir, geri kalan 34.146 tanesi ise zayıf denetim methodları kullanılarak otomatik olarak etiketlendirilmiştir.
 
 Bu alanda yapılacak gelecek çalışmalara katkı sağlamak amacıyla veri setimiz herkese açıktır.
 
