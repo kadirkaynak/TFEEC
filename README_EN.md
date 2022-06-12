@@ -2,7 +2,7 @@
 <center><h1>TFEEC : TURKISH FINANCIAL EVENT EXTRACTION CORPUS</h1></center> 
 
 ### Dataset for Turkish Financial Event Extraction
-We present a dataset that will enable the extraction of financial and economic events from Turkish news. For this study, we collected company-specific news articles shared on different news sites between 2010-2022. A total of 34,746 news articles were collected, of which 600 were hand-marked and the remaining 34,146 were automatically tagged using weak supervision methods.
+We present a dataset that will enable the extraction of financial and economic events from Turkish news. For this study, we collected company-specific news articles shared on www.borsagundem.com between 2010-2022. A total of 34,746 news articles were collected, of which 600 were hand-marked and the remaining 34,146 were automatically tagged using weak supervision methods.
 
 In order to contribute to future studies in this field, our dataset is open to everyone.
 
