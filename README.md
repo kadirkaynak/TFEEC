@@ -53,6 +53,8 @@ Bu alanda yapılacak gelecek çalışmalara katkı sağlamak amacıyla veri seti
 ### Referans Kümesindeki olay frekans dağılımı
 ![image info](./frequency_distribution_TR.png)
 
+![image info](./ExampleAnnotatedDocument.png)
+
 <br />
 <!---
 ### Çalışmanızda bu veri setini kullanıyorsanız, lütfen aşağıdaki makaleye atıfta bulunun
