@@ -53,6 +53,12 @@ In order to contribute to future studies in this field, our dataset is open to e
 ### Event frequency distribution in the gold set
 ![image info](./frequency_distribution_EN.png)
 
+### Sample Annotation - Document
+![image info](./ExampleAnnotatedDocument.png)
+
+### Sample Annotation - Sentence
+![image info](./ExampleAnnotatedSentence.png)
+
 <br />
 <!---
 ### If you make use of this dataset in your work, please kindly cite the following paper
