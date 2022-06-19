@@ -50,10 +50,14 @@ Bu alanda yapılacak gelecek çalışmalara katkı sağlamak amacıyla veri seti
 
 <br />
 
-### Referans Kümesindeki olay frekans dağılımı
+### Referans Kümesindeki Olay Frekans Dağılımı
 ![image info](./frequency_distribution_TR.png)
 
+### Etiketleme Örneği - Doküman
 ![image info](./ExampleAnnotatedDocument.png)
+
+### Etiketleme Örneği - Cümle
+![image info](./ExampleAnnotatedSentence.png)
 
 <br />
 <!---
