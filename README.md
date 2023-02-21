@@ -78,3 +78,7 @@ Bu alanda yapılacak gelecek çalışmalara katkı sağlamak amacıyla veri seti
 -->
 
 Bu çalışmadaki etiketleme işlemleri [WebAnno Annotation Tool](https://webanno.github.io/webanno/) kullanılarak gerçekleştirilmiştir.
+
+Cite : 
+https://link.springer.com/chapter/10.1007/978-3-031-23210-7_5#chapter-info
+
