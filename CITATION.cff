@@ -1,0 +1,21 @@
+@InProceedings{10.1007/978-3-031-23210-7_5,
+author="Kaynak, Kadir {\c{S}}inas
+and Tantu{\u{g}}, Ahmet C{\"u}neyd",
+editor="Machado, Jos{\'e} Manuel
+and Chamoso, Pablo
+and Hern{\'a}ndez, Guillermo
+and Bocewicz, Grzegorz
+and Loukanova, Roussanka
+and Jove, Esteban
+and del Rey, Angel Martin
+and Ricca, Michela",
+title="TFEEC: Turkish Financial Event Extraction Corpus",
+booktitle="Distributed Computing and Artificial Intelligence, Special Sessions, 19th International Conference",
+year="2023",
+publisher="Springer International Publishing",
+address="Cham",
+pages="49--58",
+abstract="Event extraction from the news is essential for making financial decisions accurately. Therefore, it has been researched in many languages for a long time. However, to the best of our knowledge, no study has been conducted in the domain of Turkish financial and economic text mining. To fill this gap, we have created an ontology and presented a well-defined and high-quality company-specific event corpus of Turkish economic and financial news. Using our dataset, we conducted a preliminary evaluation of the event extraction model to serve as a baseline for further work. Most approaches in the event extraction domain rely on machine learning and require large amounts of labeled data. However, building a training corpus with manually annotated events is a very time-consuming and intensive process. To solve this problem, we tried active learning and weak supervision methods to reduce human effort and automatically produce more labeled data without degrading machine learning performance. Experiments on our dataset show that both methods are useful. Furthermore, when we combined the manually annotated dataset with the automatically labeled dataset and used it in model training, we demonstrated that the performance increased by {\%}2,91 for event classification, {\%}13,76 for argument classification.",
+isbn="978-3-031-23210-7"
+}
+
